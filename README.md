@@ -1,122 +1,158 @@
-<div align="center">👋 Hi, I'm Mahadi Hasan
+<div align="center">👋 Hey, I'm Mahadi Hasan
 
-💻 Developer • AI Enthusiast • Builder
+"Developer" • "AI Enthusiast" • "Automation Builder"
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Building+Ideas+Into+Reality;AI+%7C+Automation+%7C+Web+%7C+Bots;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%80%A2+Repeat" alt="Typing Animation"><br>""GitHub" (https://img.shields.io/badge/GitHub-devxhasu-181717?style=for-the-badge&logo=github)" (https://github.com/devxhasu)
+<br>I turn ideas into clean, useful and reliable software.
+
+<br><a href="https://github.com/devxhasu">
+  <strong>🚀 Explore My GitHub</strong>
+</a>  •  
+
+<a href="https://github.com/devxhasu?tab=repositories">
+  <strong>📂 View Projects</strong>
+</a></div>---
+
+<div align="center">⚡ BUILD • CREATE • INNOVATE
+
+"🤖 AI"   "⚙️ AUTOMATION"   "🌐 WEB"   "💬 BOTS"   "☁️ CLOUD"
 
 </div>---
 
-👨‍💻 About Me
+🧑‍💻 About Me
 
-I'm Mahadi Hasan, a developer interested in building useful software and exploring modern technologies.
+Hey! I'm Mahadi Hasan.
 
-I enjoy working with:
+I'm passionate about creating software that is useful, simple and powerful.
 
-- 🤖 Artificial Intelligence
-- ⚙️ Automation
-- 🌐 Web Applications
-- 💬 Telegram & Messenger Bots
+I enjoy exploring new technologies and turning ideas into working projects.
+
+Currently focused on
+
+- 🤖 AI & LLM applications
+- ⚙️ Automation systems
+- 💬 Telegram & Messenger bots
+- 🌐 Web applications
 - 🔌 APIs & Webhooks
-- ☁️ Cloud Deployment
+- ☁️ Cloud deployment
 
-«Think → Build → Test → Improve → Ship 🚀»
+<br>«💡 Think → Build → Test → Improve → Ship»
 
 ---
 
 🛠️ Tech Stack
 
-Languages
+💻 Languages
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+"Python" "JavaScript" "HTML" "CSS"
 
-Backend & Database
+⚙️ Backend
 
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-"Flask" (https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+"Node.js" "Flask" "REST API"
 
-Tools
+🗄️ Database
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+"MongoDB" "PostgreSQL"
+
+🔧 Tools
+
+"Git" "GitHub" "Linux"
 
 ---
 
-🚀 What I Build
+🚀 Featured Areas
 
-🤖 AI Projects
+<details>
+<summary><strong>🤖 Artificial Intelligence</strong></summary><br>Building AI-powered applications, assistants and experimenting with LLM technologies.
 
-AI assistants, LLM applications and AI-powered tools.
+</details><details>
+<summary><strong>⚙️ Automation</strong></summary><br>Creating automated workflows, business tools, APIs and webhook-based systems.
 
-⚙️ Automation
+</details><details>
+<summary><strong>💬 Bot Development</strong></summary><br>Developing Telegram and Messenger bots with practical business features.
 
-Business automation, workflows, APIs and webhooks.
+</details><details>
+<summary><strong>🌐 Web Development</strong></summary><br>Building modern websites, dashboards and backend services.
 
-💬 Bot Development
+</details><details>
+<summary><strong>📺 OTT & Streaming</strong></summary><br>Exploring streaming platforms and TV-focused applications.
 
-Telegram bots, Messenger bots and automated services.
+</details>---
 
-🌐 Web Development
+📈 My Development Flow
 
-Modern websites, dashboards and backend services.
+<div align="center">💡 IDEA
 
-📺 OTT & Streaming
+↓
 
-Streaming applications and TV-focused projects.
+🧠 PLAN
 
----
+↓
 
-📊 GitHub Stats
+💻 CODE
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devxhasu&show_icons=true&theme=tokyonight&hide_border=true" width="100%"><br><br>
+↓
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxhasu&layout=compact&theme=tokyonight&hide_border=true" width="100%"></div>---
+🧪 TEST
 
-🔥 GitHub Streak
+↓
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=devxhasu&theme=tokyonight&hide_border=true" width="100%"></div>---
+🐛 FIX
+
+↓
+
+🚀 DEPLOY
+
+</div>---
 
 🌱 Currently Learning
 
-AI & LLMs
-API Development
-Backend Development
-Database Systems
-Cloud Deployment
-Webhooks & Automation
+┌─────────────────────────────────┐
+│                                 │
+│  🤖 Artificial Intelligence     │
+│  🧠 Large Language Models       │
+│  🔌 API Development             │
+│  ⚙️ Backend Engineering        │
+│  🗄️ Database Systems            │
+│  ☁️ Cloud Deployment            │
+│  🔐 Webhooks & Authentication   │
+│                                 │
+└─────────────────────────────────┘
 
 ---
 
-🎯 2026 Goals
+🎯 2026 Mission
 
-- 🚀 Build production-ready applications
-- 🤖 Create useful AI tools
-- ⚡ Improve backend development
-- 🌐 Build better web applications
-- ☁️ Learn advanced cloud deployment
-- 📚 Keep learning every day
+- [ ] 🤖 Build smarter AI applications
+- [ ] ⚙️ Create useful automation tools
+- [ ] 🌐 Improve full-stack development
+- [ ] ☁️ Build reliable cloud applications
+- [ ] 🔌 Master API integrations
+- [ ] 📚 Learn something new every day
 
 ---
 
-💭 Developer Mindset
+💭 Developer Philosophy
 
-<div align="center">Learn. Build. Break. Fix. Improve. Repeat. 🚀
+<div align="center">"Don't just use technology. Build with it."
+
+<br>"LEARN" → "BUILD" → "IMPROVE" → "REPEAT" ♾️
 
 </div>---
 
 🌐 Connect With Me
 
-<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-devxhasu-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/devxhasu)
+<div align="center"><a href="https://github.com/devxhasu">
+  <strong>🐙 GitHub</strong>
+</a>   |   
 
-</div>---
+<a href="https://github.com/devxhasu?tab=repositories">
+  <strong>📂 Repositories</strong>
+</a></div>---
 
-<div align="center">⭐ Thanks for visiting my profile!
+<div align="center">⭐ Thanks for visiting!
 
-Keep building. Keep learning. 🚀
+Keep Building • Keep Learning • Keep Growing
+
+<br>"Made with ❤️ by Mahadi Hasan"
 
 </div>
